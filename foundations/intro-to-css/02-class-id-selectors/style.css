@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    background-color: pink;
+    font-family: Verdana, 'DejaVu Sans', 'sans-serif';
+}
+
+.font-adjust {
+    font-size: 24px;
+}
+
+#second {
+    font-size: 36px;
+    color:blue;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
